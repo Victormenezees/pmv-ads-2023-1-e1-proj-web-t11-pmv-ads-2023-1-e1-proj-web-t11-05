@@ -26,11 +26,11 @@ Objetivos específicos:
 
 •	Acompanhamento de uso: permitir que os usuários acompanhem o uso de suas roupas, marcando quando foram usadas pela última vez;
 
-•	Sugestões de combinações: fornecer sugestões de combinações de roupas ou tendências de moda atuais, baseadas no sexo do usuário;
+•	Sugestões de combinações: pornecer sugestões de combinações de roupas ou tendências de moda atuais, baseadas no sexo do usuário;
 
-•	Ajuda Profissional: Permitir contactar um personal organizer (PO) através da aplicação para prestar consultoria e executar o serviço de organização, através de link para direcionamento de contato do mesmo;
+•	Ajuda Profissional: permitir contactar um personal organizer (PO) através da aplicação para prestar consultoria e executar o serviço de organização, através de link para direcionamento de contato do mesmo;
 
-•	Usabilidade: Proporcionar uma experiência satisfatória aos usuários, com um design simples e funcionalidades eficientes, além de oferecer suporte técnico e atendimento ao cliente de qualidade;
+•	Usabilidade: proporcionar uma experiência satisfatória aos usuários, com um design simples e funcionalidades eficientes, além de oferecer suporte técnico e atendimento ao cliente de qualidade;
 
 ## Justificativa
 
